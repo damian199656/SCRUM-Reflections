@@ -1,0 +1,14 @@
+Scrum – keypoints
+
+  Podziel zasoby organizacji na małe, cross-funkcjonalne, samoorganizujące się zespoły.
+  Podziel całość pracy na małej wielkości, konkretne zadania, nadając im odpowiedni priorytet i szacując potrzebny nakład pracy
+  Podziel czas przeznaczony na dany projekt na konkretnej wielkości iteracje (z reguły od 2-4 tygodni)
+  Po każdej iteracji omów i zoptymalizuj priorytety i czas poświęcany na konkretne taski.
+  Zoptymalizuj cały proces organizując spotkanie retrospektywne po zakończonym projekcie.  
+
+
+Kanban – keypoints
+
+Zwizualizuj przepływ pracy – podziel główne zadania na mniejsze taski, każdy task zapisz na oddzielnej kartce i umieść je na tablicy i użyj kolumn z odpowiednimi nazwami by określić w na którym etapie prac jest konkretny task
+  Przypisz konkretny limit pracy in progress (work in progress (WIP)) – ile konkretnie zadań może być wykonywanych jednocześnie
+  Określ czas realizacji (średni czas ukończenia jednego zadania, czasem nazwany “czasem cyklu”). Zoptymalizuj cały proces tak by czas jego realizacji był jak najkrótszy i jak najbardziej przewidywalny.
